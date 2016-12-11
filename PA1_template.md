@@ -123,4 +123,8 @@ xyplot(steps ~ interval | weekend, data = test, layout = c(1,2), type = "l")
 
 ![](PA1_template_files/figure-html/weekend-1.png)<!-- -->
 
-#### Looks like people start their days earlier on weekdays.  The activity peaks early, then trails off.  While weekend activty starts later, but activity level stays more or less the same thru the day.
+
+#### _Looks like people are bit more active thru the day on weekends._
+
+
+
